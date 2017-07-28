@@ -2,4 +2,6 @@
 This is documentation created for the new project
 Make sure you read the documentation!
 
-Changed Line 4 again- Last Line------
+<<<<<<< HEAD
+Added line 4 ------LAST----------
+>>>>>>> origin/master
